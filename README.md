@@ -30,7 +30,9 @@ npm i
 npm run dev
 ```
 
+
 ## NOTE: 1.Incase the buttons in the home page does not work, shutdown the application and run 'npm run dev' again.
 ##       2. After logging out, please wait for 5-10 seconds before clicking on the login button     
 
 To deploy the contract, copy the contracts over to remix-ide and deploy only WillStorage on the Matic Alpha-Mainnet from MetaMask. Copy the contract address and update the address on [line 4 of wills.js](/pages/wills.js)
+Make sure to have some matic ETH. Add matic ETH to your account from https://faucet.matic.network/ 
