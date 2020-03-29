@@ -15,7 +15,7 @@ node -V
 1. Clone the repo
 
 ```
-git clone git@github.com:torusresearch/torus-matic.git
+git clone git@github.com:SamAg19/EtherWills.git
 ```
 
 2. Install dependencies.
